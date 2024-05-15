@@ -1,0 +1,16 @@
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\bin\Debug\net8.0-windows\MessageBoxUygulaması.exe
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\bin\Debug\net8.0-windows\MessageBoxUygulaması.deps.json
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\bin\Debug\net8.0-windows\MessageBoxUygulaması.runtimeconfig.json
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\bin\Debug\net8.0-windows\MessageBoxUygulaması.dll
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\bin\Debug\net8.0-windows\MessageBoxUygulaması.pdb
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.Form1.resources
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.csproj.GenerateResource.cache
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.AssemblyInfoInputs.cache
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.AssemblyInfo.cs
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.dll
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\refint\MessageBoxUygulaması.dll
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.pdb
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\MessageBoxUygulaması.genruntimeconfig.cache
+C:\Users\UmutHakanDemir\source\repos\MessageBoxUygulaması\MessageBoxUygulaması\obj\Debug\net8.0-windows\ref\MessageBoxUygulaması.dll
